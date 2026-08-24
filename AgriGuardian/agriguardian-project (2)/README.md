@@ -1,29 +1,32 @@
-# Welcome to your Lovable project
+# Project Name
 
-This project was built with [Lovable](https://lovable.dev).
+A modern web application built with React, Vite, and Tailwind CSS. 
 
-## Build with Lovable
+## 🚀 Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
+- **Component Architecture**: Built using modular, reusable UI components.
+- **Fast Performance**: Powered by Vite for lightning-fast HMR and build times.
+- **Clean Codebase**: Written in TypeScript with strict type checking.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack
 
-## Development
+- **Framework**: [React](https://react.dev/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 💻 Getting Started
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+### Prerequisites
 
-## Built with
+Ensure you have [Node.js](https://nodejs.org/) (version 18 or higher) installed on your machine.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repository-url>
+   cd <your-repository-name>
